@@ -11,7 +11,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 1. Le launcher officiel Minecraft installé sur votre ordinateur.
 2. La version 1.20.1 de Minecraft installer.
 3. Le fichier d'installation Fabric Loader. Vous pouvez le télécharger depuis le site officiel de Fabric : [https://fabricmc.net/use/](https://fabricmc.net/use/).
-4. Le fichier compressé des mods Fabric (fichiers `.zip`) sithuer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0).
+4. Le fichier compressé des mods Fabric (fichiers `.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0).
 
 ## Étapes d'installation
 
@@ -20,7 +20,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Assurez-vous que Minecraft n'est plus en cours d'exécution.
    - Ouvrez le fichier d'installation de Fabric Loader que vous avez téléchargé.
    - Sélectionnez la dernière version des mappings, la dernière version du loader et votre dossier ou se situe minecraft.
-     (pour moi : `C:\Users\basil\AppData\Roaming\.minecraft`)
    - Cochez (créer un profile) Cliquez sur le bouton "Install".
    - Une fois l'installation terminée, vous devriez voir un nouveau profil Fabric dans votre lanceur Minecraft.
 
