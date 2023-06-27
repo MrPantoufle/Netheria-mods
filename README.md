@@ -2,7 +2,7 @@
 
 Ce guide explique comment installer des mods Minecraft utilisant le modding framework Fabric. Fabric est un système léger et flexible qui permet aux développeurs de créer des mods pour Minecraft.
 
-Vous ètes un utilisateur mac pas de soucis allez [ici]().
+Vous ètes un utilisateur macOS pas de soucis allez [ici]().
 
 ## Prérequis
 
@@ -50,4 +50,4 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
   
 C'est tout ! Vous avez réussi à installer des mods Minecraft Fabric. Hâte de vous voir sur le serveur.
 
-**Note :** Nésitez pas à demander de l'aide en créant un ticket dans le salon dédié sur discord
+**Note :** Nésitez pas à demander de l'aide en créant un ticket dans le salon dédié sur discord.
