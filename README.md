@@ -1,8 +1,8 @@
-# Guide d'installation des mods Minecraft Fabric Windows
+# Guide d'installation des mods Minecraft Fabric sur macOS
 
-Ce guide explique comment installer des mods Minecraft utilisant le modding framework Fabric. Fabric est un système léger et flexible qui permet aux développeurs de créer des mods pour Minecraft.
+Ce guide vous explique comment installer des mods Minecraft utilisant le modding framework Fabric sur un système macOS. Fabric est un système léger et flexible qui permet aux développeurs de créer des mods pour Minecraft. Suivez les étapes ci-dessous pour installer des mods Fabric sur votre client Minecraft sur macOS.
 
-Vous ètes un utilisateur mac pas de soucis allez [ici]().
+Vous ètes un utilisateur Windows pas de soucis allez [ici](https://github.com/MrPantoufle/Netheria-mods).
 
 ## Prérequis
 
@@ -31,10 +31,10 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Quittez Minecraft.
 
 4. **Installation des mods :**
-   - dézipper le fichier `Nétheria mod 1.20.1.zip`
-   - Ouvrez l'explorateur de fichiers de votre ordinateur.
-   - Accédez au dossier `.minecraft` situé dans votre répertoire utilisateur. Pour le trouver plus facilement, vous pouvez appuyer sur la combinaison de touches `Windows + R`, puis entrer `%appdata%\.minecraft` dans la boîte de dialogue et appuyer sur Entrée.
-   - À l'intérieur du dossier `.minecraft`, vous devriez voir un nouveau dossier appelé `mods`.
+   - Ouvrez le Finder sur votre Mac.
+   - Appuyez sur la combinaison de touches `Commande + Majuscule + G` pour ouvrir la boîte de dialogue "Aller au dossier".
+   - Entrez `~/Library/Application Support/minecraft` dans la boîte de dialogue et cliquez sur "Aller".
+   - À l'intérieur du dossier `minecraft`, vous devriez voir un nouveau dossier appelé `mods`.
    - Copiez les fichiers de mod Fabric (extension `.jar`) dans le dossier `mods`.
    - Si vous le souhaitez vous pouvez rajouter les mods optionnelle qui sont détaillé ici :
      1. `continuity.jar` sert à avoir certainne texture de minecraft qui se rejoinne compensant le manque d'optifine.
@@ -42,12 +42,12 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
      3. `replaymod.jar` à enregistrer vos séssion de jeux.
      4. `Wi Zoom.jar` à avoir le zoom optifine.
 
-6. **Lancement de Minecraft avec les mods :**
+5. **Lancement de Minecraft avec les mods :**
    - Ouvrez le lanceur Minecraft.
    - Sélectionnez le profil Fabric que vous avez créé précédemment.
    - Cliquez sur le bouton "Jouer" pour démarrer Minecraft avec les mods installés.
    - Les mods devraient maintenant être chargés et prêts à être utilisés dans votre partie.
-  
-C'est tout ! Vous avez réussi à installer des mods Minecraft Fabric. Hâte de vous voir sur le serveur.
 
-**Note :** Nésitez pas à demander de l'aide en créant un ticket dans le salon dédié sur discord
+C'est tout ! Vous avez réussi à installer des mods Minecraft Fabric sur macOS. Hâte de vous voir sur le serveur.
+
+**Note :** Nhésitez pas à demander de l'aide en créant un ticket dans le salon dédié sur discord.
