@@ -48,6 +48,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Sélectionnez le profil Fabric que vous avez créé précédemment.
    - Cliquez sur le bouton "Jouer" pour démarrer Minecraft avec les mods installés.
    - Les mods devraient maintenant être chargés et prêts à être utilisés dans votre partie.
+   - Quand vous fermer le jeu vous pouvez fermer le terminal. (Vous devrez lancer le shell à chaque fois que vous voulez jouer sur notre serveur.)
 
 C'est tout ! Vous avez réussi à installer des mods Minecraft Fabric sur macOS. Hâte de vous voir sur le serveur.
 
