@@ -12,6 +12,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 2. La version 1.20.1 de Minecraft installer.
 3. Le fichier d'installation Fabric Loader. Vous pouvez le télécharger depuis le site officiel de Fabric : [https://fabricmc.net/use/](https://fabricmc.net/use/).
 4. Le fichier compressé des mods Fabric (fichiers `Netheria-mods-v.1.0.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0).
+5. Le fix de simple voice chat (fichiers `simple-voicechat-fix.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0)
 
 ## Étapes d'installation
 
