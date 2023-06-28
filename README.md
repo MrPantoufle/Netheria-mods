@@ -43,8 +43,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
      4. `Wi Zoom.jar` à avoir le zoom optifine.
 
 5. **Lancement de Minecraft avec les mods :**
-   - Lancez le shell qui vient du téléchargement de `simple-voicechat-fix.zip`.
-   - 🚨❗un terminal s'ouvre ne le fermer pas.
+   - Lancez le shell qui vient du téléchargement de `simple-voicechat-fix.zip`. 🚨❗un terminal s'ouvre ne le fermer pas.
    - Le launcher de minecraft s'ouvre.
    - Sélectionnez le profil Fabric que vous avez créé précédemment.
    - Cliquez sur le bouton "Jouer" pour démarrer Minecraft avec les mods installés.
