@@ -36,11 +36,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Accédez au dossier `.minecraft` situé dans votre répertoire utilisateur. Pour le trouver plus facilement, vous pouvez appuyer sur la combinaison de touches `Windows + R`, puis entrer `%appdata%\.minecraft` dans la boîte de dialogue et appuyer sur Entrée.
    - À l'intérieur du dossier `.minecraft`, vous devriez voir un nouveau dossier appelé `mods`.
    - Copiez les fichiers de mod Fabric (extension `.jar`) dans le dossier `mods`.
-   - Si vous le souhaitez vous pouvez rajouter les mods optionnelle qui sont détaillé ici :
-     1. `continuity.jar` sert à avoir certainne texture de minecraft qui se rejoinne compensant le manque d'optifine.
-     2. `shift scroll fix.jar` à régler l'imposibilité de sprinter et de changer d'item sur mac.
-     3. `replaymod.jar` à enregistrer vos séssion de jeux.
-     4. `Wi Zoom.jar` à avoir le zoom optifine.
+   - Si vous le souhaitez vous pouvez rajouter les mods optionnelle qui sont téléchargable [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0).
+ 
 
 6. **Lancement de Minecraft avec les mods :**
    - Ouvrez le lanceur Minecraft.
