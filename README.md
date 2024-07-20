@@ -11,7 +11,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 1. Le launcher Minecraft installé sur votre ordinateur.
 2. La version 1.20.1 de Minecraft installer.
 3. Le fichier d'installation Fabric Loader. Vous pouvez le télécharger depuis le site officiel de Fabric : [https://fabricmc.net/use/](https://fabricmc.net/use/).
-4. Le fichier compressé des mods Fabric (fichiers `Netheria-mods-v.1.0.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0).
+4. Le fichier compressé des mods Fabric (fichiers `Netheria.mods.1_21.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0).
 
 ## Étapes d'installation
 
@@ -31,7 +31,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Quittez Minecraft.
 
 4. **Installation des mods :**
-   - dézipper le fichier `Nétheria mod 1.20.1.zip`
+   - dézipper le fichier `Netheria.mods.1_21.zip`
    - Ouvrez l'explorateur de fichiers de votre ordinateur.
    - Accédez au dossier `.minecraft` situé dans votre répertoire utilisateur. Pour le trouver plus facilement, vous pouvez appuyer sur la combinaison de touches `Windows + R`, puis entrer `%appdata%\.minecraft` dans la boîte de dialogue et appuyer sur Entrée.
    - À l'intérieur du dossier `.minecraft`, vous devriez voir un nouveau dossier appelé `mods`.
