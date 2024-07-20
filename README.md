@@ -11,8 +11,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 1. Le launcher officiel Minecraft installé sur votre ordinateur.
 2. La version 1.20.1 de Minecraft installer.
 3. Le fichier d'installation Fabric Loader. Vous pouvez le télécharger depuis le site officiel de Fabric : [https://fabricmc.net/use/](https://fabricmc.net/use/).
-4. Le fichier compressé des mods Fabric (fichiers `Netheria-mods-v.1.0.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0).
-5. Le fix de simple voice chat (fichiers `simple-voicechat-fix.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/1.0.0)
+4. Le fichier compressé des mods Fabric (fichiers `Netheria.mods.1_21.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0).
+5. Le fix de simple voice chat (fichiers `simple-voicechat-fix.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0)
 
 ## Étapes d'installation
 
@@ -36,11 +36,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
    - Entrez `~/Library/Application Support/minecraft` dans la boîte de dialogue et cliquez sur "Aller".
    - À l'intérieur du dossier `minecraft`, vous devriez voir un nouveau dossier appelé `mods`.
    - Copiez les fichiers de mod Fabric (extension `.jar`) dans le dossier `mods`.
-   - Si vous le souhaitez vous pouvez rajouter les mods optionnelle qui sont détaillé ici :
-     1. `continuity.jar` sert à avoir certainne texture de minecraft qui se rejoinne compensant le manque d'optifine.
-     2. `shift scroll fix.jar` à régler l'imposibilité de sprinter et de changer d'item sur mac.
-     3. `replaymod.jar` à enregistrer vos séssion de jeux.
-     4. `Wi Zoom.jar` à avoir le zoom optifine.
+   - Si vous le souhaitez vous pouvez rajouter les mods optionnelle qui sont téléchargable [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0).
 
 5. **Lancement de Minecraft avec les mods :**
    - Lancez le shell qui vient du téléchargement de `simple-voicechat-fix.zip`. 🚨❗un terminal s'ouvre ne le fermer pas.
