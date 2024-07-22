@@ -9,7 +9,7 @@ Vous ètes un utilisateur Windows pas de soucis allez [ici](https://github.com/M
 Avant de commencer, assurez-vous d'avoir les éléments suivants :
 
 1. Le launcher officiel Minecraft installé sur votre ordinateur.
-2. La version 1.20.1 de Minecraft installer.
+2. La version 1.21.0 de Minecraft installer.
 3. Le fichier d'installation Fabric Loader. Vous pouvez le télécharger depuis le site officiel de Fabric : [https://fabricmc.net/use/](https://fabricmc.net/use/).
 4. Le fichier compressé des mods Fabric (fichiers `Netheria.mods.1_21.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0).
 5. Le fix de simple voice chat (fichiers `simple-voicechat-fix.zip`) situer [ici](https://github.com/MrPantoufle/Netheria-mods/releases/tag/2.0.0)
@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 ## Étapes d'installation
 
 1. **Installation de Fabric Loader :**
-   - Lancer au moins une fois minecraft en **1.20.1**.
+   - Lancer au moins une fois minecraft en **1.21.0**.
    - Assurez-vous que Minecraft n'est plus en cours d'exécution.
    - Ouvrez le fichier d'installation de Fabric Loader que vous avez téléchargé.
    - Sélectionnez la dernière version des mappings, la dernière version du loader et votre dossier ou se situe minecraft.
